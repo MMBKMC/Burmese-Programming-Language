@@ -1,6 +1,6 @@
 import ဘီစင့်
 
-print("မြန်မာ programming language")
+print("Myanmar programming language")
 while True:
 	text = input('Myanmar > ')
 	if text.strip() == "": continue
